@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
+# Robofriends
 - project: probot
   role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  duration: 2018 &mdash; Present
+  url: "https://github.com/siegblink/robofriends"
+  description: A web app using React.js and Robohash API and jsonplaceholder API to display your friend's profile as cool-looking robots with their personal details.
 
-# GitHub Classroom
-- project: GitHub Classroom
+# Youtube Clone
+- project: Youtube Clone
   role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: 2018 &mdash; Present
+  url: "https://github.com/siegblink/youtube-clone"
+  description: A simple clone of Youtube.
